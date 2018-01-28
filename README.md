@@ -1,1 +1,1 @@
-GitPages for Nick GArdner
+GitPages for Nick Gardner
