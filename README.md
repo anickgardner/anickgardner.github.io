@@ -1,2 +1,1 @@
-# nickgrander.github.io
-Nick Gardner Sandbox Files
+GitPages for Nick GArdner
