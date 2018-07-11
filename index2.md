@@ -7,10 +7,6 @@
 
 ## Library science classes
 
-Fall 2018 (not yet taken)
-
-LS 534 Administration and management of libraries, LS 547 Leadership for libraries and information centers, LS 550 Research methodologies in library science
-
 Summer 2018 (some in progress)
 
 LS 529 Instructional strategies for librarians and information professionals, LS 570 Apprenticeship in information agencies, LS 573 Integrated technologies in libraries, LS 580 Library marketing and the community
