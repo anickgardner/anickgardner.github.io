@@ -5,6 +5,20 @@
 * Clarion University of Pennsylvania, Master of Science in Information and Library Science, *in progress*
 * Marshall University, Bachelor of Science in Ecology & Evolutionary Biology, 2015
 
+## Library science classes
+
+Fall 2018 (not yet taken)
+
+LS 534 Administration and management of libraries, LS 547 Leadership for libraries and information centers, LS 550 Research methodologies in library science
+
+Summer 2018 (some in progress)
+
+LS 529 Instructional strategies for librarians and information professionals, LS 570 Apprenticeship in information agencies, LS 573 Integrated technologies in libraries, LS 580 Library marketing and the community
+
+Spring 2018 (completed)
+
+LS 500 Information sources and services, LS 504 Introduction to the information professions, LS 505 Organization of information, LS 544 Evaluation and assessment of library and information sources
+
 ## Outputs
 
 |Type |Year|Title|
