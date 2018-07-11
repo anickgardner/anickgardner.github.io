@@ -2,7 +2,7 @@
 
 ## Education
 
-* Clarion University of Pennsylvania, Master of Science in Information and Library Science, *in progress*
+* Clarion University of Pennsylvania, Master of Science in Information and Library Science, *in progress* Expected Graduation Date December 2018
 * Marshall University, Bachelor of Science in Ecology & Evolutionary Biology, 2015
 
 ## Library science classes
