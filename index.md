@@ -20,17 +20,17 @@
 
 # Library science classes
 
-* *LS 500* Information sources and services
-* *LS 504* Introduction to the information professions
-* *LS 505* Organization of information
-* *LS 529* Instructional strategies for librarians and information professionals
-* *LS 534* Library administration and management
-* *LS 541* Database management for information professionals
-* *LS 544* Evaluation and assessment of library and information sources
-* *LS 550* Research methodologies in library science
-* *LS 570* Apprenticeship in information agencies
-* *LS 573* Integrated technologies in libraries
-* *LS 580* Library marketing and the community
-* *LS 591* Business Sources and Services
+* LS 500 Information sources and services
+* LS 504 Introduction to the information professions
+* LS 505 Organization of information
+* LS 529 Instructional strategies for librarians and information professionals
+* LS 534 Library administration and management
+* LS 541 Database management for information professionals
+* LS 544 Evaluation and assessment of library and information sources
+* LS 550 Research methodologies in library science
+* LS 570 Apprenticeship in information agencies
+* LS 573 Integrated technologies in libraries
+* LS 580 Library marketing and the community
+* LS 591 Business Sources and Services
 
 
