@@ -2,6 +2,7 @@
 
 * Clarion University of Pennsylvania, Master of Science in Information and Library Science, 2019
 * Marshall University, Bachelor of Science in Ecology & Evolutionary Biology, 2015
+* Potomac State College, Associate of Arts in Geology, 2008
 
 # Presentations
 
