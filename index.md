@@ -52,11 +52,11 @@ Bold denotes first author
 |Type |Year|Title|Where
 |-----|----|----|----|
 |Paper|2014|Open Science to The American Association for the Advancement of Science|The Winnower|
-|*Paper|2014|What reptiles gave rise to birds? Dinosaurs.|Evolution Education and Outreach*|
+|Paper|2014|*What reptiles gave rise to birds? Dinosaurs*|Evolution Education and Outreach|
 |Paper|2012|[A new eusuchian crocodyliform with novel cranial integument and its significance for the origin and evolution of Crocodylia](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030471)|PLoS ONE|
 |Paper |2010|[Microanatomy of the mandibular symphysis in lizards: patterns in fiber orientation and Meckel's cartilage and their significance in cranial evolution](http://onlinelibrary.wiley.com/doi/10.1002/ar.21180/full)|The Anatomical Record|
-|*Paper |2010|[The braincase of *Youngina capensis* (Reptilia, Diapsida): new insights from high-resolution CT scanning of the holotype](http://palaeoelectronica.org/2010_3/217/index.html)|Palaeontologia Electronica*|
-|*Paper |2008|No direct evidence for feathers in *Tyrannosaurus rex*|American Biology Teacher*|
+|Paper |2010|*[The braincase of *Youngina capensis* (Reptilia, Diapsida): new insights from high-resolution CT scanning of the holotype](http://palaeoelectronica.org/2010_3/217/index.html)*|Palaeontologia Electronica|
+|Paper |2008|*No direct evidence for feathers in *Tyrannosaurus rex**|American Biology Teacher|
 
 
 # Professional affiliations
