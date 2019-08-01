@@ -12,13 +12,21 @@ Associate of Arts in Geology, 2008
 # Scholarly and Professional Profiles
 
 [Academia.edu](https://independent.academia.edu/NickGardner4)
+
 [Google Scholar](https://scholar.google.com/citations?user=TAOzM7wAAAAJ&hl=en) (105 citations, 8/1/2019; h-index 3)
+
 [LinkedIn](https://www.linkedin.com/in/nick-gardner-641ab6124)
+
 [Mendeley](https://www.mendeley.com/profiles/n-gardner/)
+
 [Microsoft Academic](https://academic.microsoft.com/profile/jh589hej-882i-4080-8191-ef4343j24462/ngardner/)
+
 [ORCiD](https://orcid.org/0000-0002-5278-7541)
+
 [ResearchGate](https://www.researchgate.net/profile/Nicholas_Gardner2) (RG Score 10.39, 8/1/2019)
+
 [Selected Works](https://works.bepress.com/nicholas_gardner/)
+
 [Web of Science](https://apps.webofknowledge.com/OneClickSearch.do?product=UA&search_mode=OneClickSearch&excludeEventConfig=ExcludeIfFromFullRecPage&SID=7A4DGZVbwL7do6yqLoQ&field=AU&value=Gardner,%20Nicholas%20M.)
 
 # Presentations
