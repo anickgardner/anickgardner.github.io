@@ -17,7 +17,7 @@
 |Talk |2014|Testing the holophyly of pythonomorph squamates and the ecological consequences for snake origins|Secondary Adaptations of Tetrapods to Life in the Water, 7th Annual Meeting, Fairfax, VA|
 |Talk |2011|Cranial anatomy in the basal diapsid *Youngina capensis* and its relevance to higher radiations of Permo-Triassic Neodiapsida|Society of Vertebrate Paleontology Annual Meeting, Las Vegas, NV|
 |Poster |2010|Braincase anatomy of the basal diapsid Youngina capensis from high-solution X-Ray CT scanning|Society of Vertebrate Paleontology, Annual Meeting, Pittsburgh, PA|
-|Presentation |2010|Structure and function of the reptilian mandibular symphysis: Insights from squamates|Society of Vertebrate Paleontology, Annual Meeting, Pittsburgh, PA|
+|Talk |2010|Structure and function of the reptilian mandibular symphysis: Insights from squamates|Society of Vertebrate Paleontology, Annual Meeting, Pittsburgh, PA|
 
 
 # Papers
