@@ -24,7 +24,7 @@ Nicholas M. Gardner^1
 
 ### Literature review
 
-Literature searches were conducted in Google Scholar using *"acetyl salicylic acid" OR "acetylsalicylic acid" plants* in the search terms.
+Literature searches were conducted in Google Scholar using *"acetyl salicylic acid" OR "acetylsalicylic acid" plants* in the search terms. https://scholar.google.com/scholar?hl=en&as_sdt=0%2C49&q=%22acetyl+salicylic+acid%22+OR+%22acetylsalicylic+acid%22+%2Bplants&btnG=
 
 ## Results
 
