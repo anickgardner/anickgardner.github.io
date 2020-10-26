@@ -50,6 +50,6 @@ Literature searches were conducted in Google Scholar using *"acetyl salicylic ac
 
 ## Acknowledgements
 
-I think Vik Frazier (Potomac State College) for suggesting the original idea of exploring the effects of ASA on plants.
+I thank Vik Frazier (Potomac State College) for suggesting the original idea of exploring the effects of ASA on plants.
 
 ## References
