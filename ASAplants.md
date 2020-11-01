@@ -42,12 +42,14 @@ Literature searches were conducted in Google Scholar using *"acetyl salicylic ac
 | Solanaceae | *Nicotiana* | Injection | Tobacco mosaic virus | White (1979) |
 | Solanaceae | *Solanum tuberosum* cv. Coliban | Foliar application | Fungal resistance | Bokshi et al. (2003) |
 | Solanaceae | *Solanum tuberosum* cv. Sebago | Foliar application | Fungal resistance | Bokshi et al. (2003) |
+| Geraniaceae | *Pelargonium x hortorum* Bailey | Cultured hypocotyl explants | Embryonic development | Hutchinson & Saxena (1996) |
 
 
 ### References
 
 - Al-Taey, D. K. (2009). Effect of spraying acetyl salicylic acid to reduce the damaging effects of salt water stress on orange plants  (*Citrus sinensis* L.). *Journal of Kerbala University*, *7*(2), 192-202.
 - Bokshi, A. I., Morris, S. C., & Deverall, B. J. (2003). Effects of benzothiadiazole and acetylsalicylic acid on β‐1, 3‐glucanase activity and disease resistance in potato. Plant pathology, 52(1), 22-27.
+- Hutchinson, M. J., & Saxena, P. K. (1996). Acetylsalicylic acid enhances and synchronizes thidiazuron-induced somatic embryogenesis in geranium (*Pelargonium x hortorum* Bailey) tissue cultures. Plant Cell Reports, 15, 512-515.
 - Hussain, I., Rasheed, R., Ashraf, M. A., Mohsin, M., Shah, S. M. A., Rashid, A., Akram, M., Nisar, J., & Riaz, M. (2020). Foliar applied acetylsalicylic acid induced growth and key-biochemical changes in chickpea (*Cicer arietinum* L.) under drought stress. *Dose-Response*, *18*(4), 1-13. https://doi.org/10.1177%2F1559325820956801
 - Jung, J. L., Fritig, B., & Hahne, G. (1993). Sunflower (*Helianthus annuus* L.) pathogenesis-related proteins (induction by aspirin (acetylsalicylic acid) and characterization). *Plant Physiology*, 101, 873-880.
 - Senaratna, T., Touchell, D., Bunn, E., & Dixon, K. (2000). Acetyl salicylic acid (Aspirin) and salicylic acid induce multiple stress tolerance in bean and tomato plants. Plant Growth Regulation, 30(2), 157-161.
