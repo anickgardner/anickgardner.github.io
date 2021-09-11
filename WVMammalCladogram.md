@@ -54,7 +54,7 @@ Cladogram of West Virginia mammals (including domestic species)
                            |-- Sus
                            |-- Odocoileus
                            |-- Cervus canadensis
-                           `-- Bison bison`
+                           `-- Bison bison  `
        
        
 References
