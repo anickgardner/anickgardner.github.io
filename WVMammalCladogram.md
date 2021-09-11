@@ -1,6 +1,7 @@
 Cladogram of West Virginia mammals (including domestic species)
 
-`  --+-- Metatheria
+~~~~
+  --+-- Metatheria
     |    `-- Didelphis virginiana
     `--Eutheria
        |-- Afrotheria
@@ -54,7 +55,8 @@ Cladogram of West Virginia mammals (including domestic species)
                            |-- Sus
                            |-- Odocoileus
                            |-- Cervus canadensis
-                           `-- Bison bison  `
+                           `-- Bison bison  
+~~~~
        
        
 References
