@@ -56,5 +56,9 @@ Cladogram of West Virginia mammals (including domestic species)
                            |-- Cervus canadensis
                            `-- Bison bison
        
+       
+References
+
+Esteva M, Cervantes FA, Brant SV, Cook JA. 2010. Molecular phylogeny of long-tailed shrews (genus *Sorex*) from México and Guatemala. *Zootaxa** 2615: 47-65.
 
 
