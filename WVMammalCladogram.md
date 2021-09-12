@@ -4,16 +4,17 @@ Cladogram of West Virginia mammals (including domestic species)
   --+-- Metatheria
     |    `-- Didelphis virginiana
     `--Eutheria
-       |-- Afrotheria
+       |-- Xenarthra (No Native Species)
+       |-- Afrotheria (No Native Species)
        `--Boreoeutheria
             |-- Euarchontoglires
             |   `-- Glires
             |         |-- Lagomorpha
-            |         |     |-- Oryctolagus
+            |         |     |-- Oryctolagus (Domesticated)
             |         |     `-- Sylvilagus
             |         `-- Rodentia
             |              |-- Hystricomorpha
-            |              |    |-- Cavia
+            |              |    |-- Cavia (Domesticated)
             |              |    `-- Erethizon
             |              `-- +--SCIUROMORPHA
             |                   `--+--Castorimorpha
@@ -21,7 +22,7 @@ Cladogram of West Virginia mammals (including domestic species)
             |                      `-MYOMORPHA
             `--Laurasiatheria
                |-- Eulipotyphla
-               |   |-- SOLENODONTIDAE
+               |   |-- SOLENODONTIDAE (No Native Species)
                |   `--+-- Talpidae
                |      |  |-- Condylura cristata
                |      |  `--+--Scalopus aquaticus
@@ -36,25 +37,31 @@ Cladogram of West Virginia mammals (including domestic species)
                |         |     |     `--+-- S. cinereus C
                |         |     |        `-- S. longirostris U
                |         |     `--Sorex fumeus U
+               |         `-- ERINACEIDAE (No Native Species)
                `--+-- CHIROPTERA
                   `--+-- CARNIVORA
                      |  |--Feliformia
-                     |  |  |-- Felis
+                     |  |  |-- Felis (Domesticated)
                      |  |  `-- Lynx rufus
                      |  `--Caniformia
                      |     |--Canidae
                      |     |  |-- Urocyon
                      |     |  `-- other canines
+                     |     |      `-- Canis familiaris (Domesticated)
                      |     `--+-- Ursidae
                      |        |  `-- Ursus americanus
                      |        `--MUSTELOIDEA
                      `-- UNGULATA
                         |-- Perissodactyla
-                        |  `-- Equus
+                        |  `-- Equus (Domesticated)
                         `-- Artiodactyla
-                           |-- Sus
-                           |-- Odocoileus
+                           |-- Sus (Domesticated)
+                           |-- Odocoileus virginianus
                            |-- Cervus canadensis
+                           |-- Bos tauros (Domesticated)
+                           |-- Camelidae (Domesticated)
+                           |-- Capra hircus (Domesticated)
+                           |-- Ovis aries (Domesticated)
                            `-- Bison bison  
 ~~~~
        
