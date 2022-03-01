@@ -49,7 +49,7 @@ Associate of Arts in Geology, 2008
 
 Bold denotes first author
 
-[Flight and echolocation evolved once in Chiroptera: comments on ‘The evolution of flight in bats: a novel hypothesis’] (https://www.researchgate.net/publication/358104702_Flight_and_echolocation_evolved_once_in_Chiroptera_comments_on_'The_evolution_of_flight_in_bats_a_novel_hypothesis') 
+[Flight and echolocation evolved once in Chiroptera: comments on ‘The evolution of flight in bats: a novel hypothesis’](https://www.researchgate.net/publication/358104702_Flight_and_echolocation_evolved_once_in_Chiroptera_comments_on_'The_evolution_of_flight_in_bats_a_novel_hypothesis') 
 
 
 |Type |Year|Title|Where
